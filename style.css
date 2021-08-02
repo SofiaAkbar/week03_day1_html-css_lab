@@ -1,0 +1,70 @@
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    margin: 0
+}
+
+body > header {
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+#logo {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 16px;
+}
+
+#header-nav > ul {
+    padding-bottom: 16px;
+}
+
+#header-nav > ul > li > a {
+    color: whitesmoke
+}
+
+#categories-nav > ul > li > a {
+    color: rgb(88, 24, 160)
+}
+
+.news-image {
+    width: 150px;
+    height: 150px;
+}
+
+body > main > section > textarea {
+    width: 200px;
+}
+
+body > main > article {
+    width: 70%;
+    margin: auto;
+}
+
+.comment-section {
+    width: 70%;
+    margin: auto;
+}
+
+.comment-image {
+    width: 100px;
+    height: 100px;
+}
+
+body > footer {
+    background-color: blueviolet;
+}
+
+body > footer > p {
+    margin: 0;
+    text-align: center;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 16px;
+}
